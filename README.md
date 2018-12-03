@@ -2,7 +2,7 @@
   <head>
     <title> Slither.io 2.0 </title>
   <style>
-    
+ 
   </style>
   </head>
   <body>
