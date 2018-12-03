@@ -11,4 +11,4 @@
   Slither.io 2.0 gives many features that Slither.io doesn't
   </p>
   </body>
-  </html
+  </html>
